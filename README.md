@@ -4,9 +4,13 @@
 Fleet Optimizer AI is a real-time Multi-Agent Reinforcement Learning (MARL) web application designed to optimize and manage a fleet of autonomous delivery vehicles, drones, and warehouse robots. The app simulates intelligent route planning, fleet status monitoring, and analytics with a slick, modern interface and smooth animations.
 
 ---
-<img width="1006" height="754" alt="Screenshot 2025-11-22 171331" src="https://github.com/user-attachments/assets/645388b7-2738-42fa-aa9f-9e0979b12549" />
 
-<img width="989" height="448" alt="Screenshot 2025-11-22 171345" src="https://github.com/user-attachments/assets/d8231ed7-883a-40fd-9d99-75ee66e4e140" />
+<img width="1905" height="672" alt="Screenshot 2026-07-16 211223" src="https://github.com/user-attachments/assets/29702eea-fce3-483b-8a80-c867ebe0a8ce" />
+<img width="1859" height="757" alt="Screenshot 2026-07-16 211233" src="https://github.com/user-attachments/assets/c58072c7-3eaa-47c7-bd71-ac1eb80a2ac9" />
+<img width="1884" height="747" alt="Screenshot 2026-07-16 211243" src="https://github.com/user-attachments/assets/304e2df6-b5ff-45f0-8c97-622543a0ff55" />
+
+
+
 
 ---
 ## Features

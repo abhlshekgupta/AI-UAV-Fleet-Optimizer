@@ -5,9 +5,9 @@ Fleet Optimizer AI is a real-time Multi-Agent Reinforcement Learning (MARL) web 
 
 ---
 
-<img width="1905" height="672" alt="Screenshot 2026-07-16 211223" src="https://github.com/user-attachments/assets/29702eea-fce3-483b-8a80-c867ebe0a8ce" />
-<img width="1859" height="757" alt="Screenshot 2026-07-16 211233" src="https://github.com/user-attachments/assets/c58072c7-3eaa-47c7-bd71-ac1eb80a2ac9" />
-<img width="1884" height="747" alt="Screenshot 2026-07-16 211243" src="https://github.com/user-attachments/assets/304e2df6-b5ff-45f0-8c97-622543a0ff55" />
+<img width="1905" height="672" alt="Screenshot 2026-07-16 211223" src="assets/1.png" />
+<img width="1859" height="757" alt="Screenshot 2026-07-16 211233" src="assets/2.png" />
+<img width="1884" height="747" alt="Screenshot 2026-07-16 211243" src="assets/3.png" />
 
 
 
